@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandrakesh Dhawal</h1>
 <h3 align="center">A passionate web developer</h3>
-<img width="400"alt="image" src="https://github.com/user-attachments/assets/c86ea42d-c1e7-4267-b4c3-ce515b9e9b53"/>
+<img align="right" width="400"alt="image" src="https://github.com/user-attachments/assets/c86ea42d-c1e7-4267-b4c3-ce515b9e9b53"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codetech321&label=Profile%20views&color=0e75b6&style=flat" alt="codetech321" /> </p>
 
 - 📫 How to reach me **dhawal.dkd@gmail.com**
