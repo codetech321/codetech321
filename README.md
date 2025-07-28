@@ -1,3 +1,5 @@
+<img width="300"alt="image" src="https://github.com/user-attachments/assets/9c4711fe-1e49-466b-bd46-1e07981ad71b" />
+
 <h1 align="center">Hi 👋, I'm Chandrakesh Dhawal</h1>
 <h3 align="center">A passionate web developer</h3>
 <img align="right" width="400"alt="image" src="https://github.com/user-attachments/assets/c86ea42d-c1e7-4267-b4c3-ce515b9e9b53"/>
